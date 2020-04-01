@@ -1,0 +1,8 @@
+C:\Legal\WebApi\DataStorage\bin\Release\netstandard2.0\DataStorage.deps.json
+C:\Legal\WebApi\DataStorage\bin\Release\netstandard2.0\DataStorage.dll
+C:\Legal\WebApi\DataStorage\bin\Release\netstandard2.0\DataStorage.pdb
+C:\Legal\WebApi\DataStorage\obj\Release\netstandard2.0\DataStorage.csprojAssemblyReference.cache
+C:\Legal\WebApi\DataStorage\obj\Release\netstandard2.0\DataStorage.AssemblyInfoInputs.cache
+C:\Legal\WebApi\DataStorage\obj\Release\netstandard2.0\DataStorage.AssemblyInfo.cs
+C:\Legal\WebApi\DataStorage\obj\Release\netstandard2.0\DataStorage.dll
+C:\Legal\WebApi\DataStorage\obj\Release\netstandard2.0\DataStorage.pdb

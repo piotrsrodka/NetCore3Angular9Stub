@@ -1,0 +1,15 @@
+C:\Legal\WebApi\DataStorage\bin\Debug\netstandard2.0\DataStorage.deps.json
+C:\Legal\WebApi\DataStorage\bin\Debug\netstandard2.0\DataStorage.dll
+C:\Legal\WebApi\DataStorage\obj\Debug\netstandard2.0\DataStorage.AssemblyInfoInputs.cache
+C:\Legal\WebApi\DataStorage\obj\Debug\netstandard2.0\DataStorage.AssemblyInfo.cs
+C:\Legal\WebApi\DataStorage\bin\Debug\netstandard2.0\DataStorage.pdb
+C:\Legal\WebApi\DataStorage\obj\Debug\netstandard2.0\DataStorage.dll
+C:\Legal\WebApi\DataStorage\obj\Debug\netstandard2.0\DataStorage.pdb
+C:\Users\Piotr\Dropbox\Coding\NetCore3Angular9Stub\WebApi\DataStorage\bin\Debug\netstandard2.0\DataStorage.deps.json
+C:\Users\Piotr\Dropbox\Coding\NetCore3Angular9Stub\WebApi\DataStorage\bin\Debug\netstandard2.0\DataStorage.dll
+C:\Users\Piotr\Dropbox\Coding\NetCore3Angular9Stub\WebApi\DataStorage\bin\Debug\netstandard2.0\DataStorage.pdb
+C:\Users\Piotr\Dropbox\Coding\NetCore3Angular9Stub\WebApi\DataStorage\obj\Debug\netstandard2.0\DataStorage.csprojAssemblyReference.cache
+C:\Users\Piotr\Dropbox\Coding\NetCore3Angular9Stub\WebApi\DataStorage\obj\Debug\netstandard2.0\DataStorage.AssemblyInfoInputs.cache
+C:\Users\Piotr\Dropbox\Coding\NetCore3Angular9Stub\WebApi\DataStorage\obj\Debug\netstandard2.0\DataStorage.AssemblyInfo.cs
+C:\Users\Piotr\Dropbox\Coding\NetCore3Angular9Stub\WebApi\DataStorage\obj\Debug\netstandard2.0\DataStorage.dll
+C:\Users\Piotr\Dropbox\Coding\NetCore3Angular9Stub\WebApi\DataStorage\obj\Debug\netstandard2.0\DataStorage.pdb

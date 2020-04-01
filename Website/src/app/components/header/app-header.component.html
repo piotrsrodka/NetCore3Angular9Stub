@@ -1,0 +1,11 @@
+<nav class="navbar navbar-expand-sm navbar-light">
+  <span class="navbar-brand mb-0 h1">MyApp</span>
+  <div class="navbar-nav">
+    <a class="nav-item nav-link active" routerLink="/dashboard">Lista produktów<span class="sr-only">(current)</span></a>
+    <a *ngIf="isAdmin" class="nav-item nav-link" href="#">Parametry</a>
+    <a *ngIf="isAdmin" class="nav-item nav-link" routerLink="/users">Konta</a>
+  </div>
+  <span class="fill-remaining-space"></span>
+  <span class="mx-md-3">Witaj, {{ currentUserName }}</span>
+  <button class="nav-item nav-link" (click)="logout()">Wyloguj się</button>
+</nav>

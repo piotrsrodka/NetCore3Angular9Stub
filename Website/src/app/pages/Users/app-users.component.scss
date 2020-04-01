@@ -1,0 +1,9 @@
+@import "../../../styles.scss";
+
+.search-bar {
+    display: flex;
+    height: 48px;
+    background-color: $blue3;
+    align-items: center;
+    padding: 0 10px;
+}

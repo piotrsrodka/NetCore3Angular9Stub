@@ -1,0 +1,39 @@
+<app-header></app-header>
+
+<div class="container">
+
+  <div *ngIf="isNew">
+    <div class="row justify-content-center">
+      <div class="col-10">
+        <h1>Definicja nowego produktu</h1>
+        <div class="card">
+          <div class="card-body">
+            <div class="form-group">
+              <label for="productName">Nazwa produktu</label>
+              <input name="productName" class="form-control" type="text" [(ngModel)]="product.name" />
+            </div>
+            <div class="d-flex justify-content-center">
+              <button class="btn btn-success" type="button" (click)="save()">Zapisz</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div *ngIf="!isNew" class="row">
+
+    <!-- Left Pane with document -->
+    <div class="col-7">
+      <h1>{{ product.name }}</h1>
+    </div>
+
+    <!-- Right Pane with optional clauses -->
+    <div class="col-5">
+      <h2>Klauzule opcjonalne</h2>
+    </div>
+  </div>
+
+</div>
+
+<app-footer></app-footer>
